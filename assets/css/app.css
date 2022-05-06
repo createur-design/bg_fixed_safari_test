@@ -9,9 +9,6 @@ section {
   align-items: center;
   justify-content: center;
 }
-section h2 {
-  margin-top: 0;
-}
 section:nth-child(1) {
   background-color: red;
 }
